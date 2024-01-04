@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Raphael Paiva | Blog
 ---
-# Bem vindo, querido!
 
 Dá um bizu no meu [github](https://github.com/raphaelpaiva).
 
