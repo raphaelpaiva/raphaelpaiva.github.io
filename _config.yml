@@ -2,3 +2,6 @@ title: Raphael Paiva
 description: Blog
 theme: minima
 google_analytics: G-6VW4TWLET8
+show_excerpts: true
+minima:
+  date_format: "%d/%m/%Y"
