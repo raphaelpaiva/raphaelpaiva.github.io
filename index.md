@@ -5,6 +5,9 @@
 layout: home
 title: Raphael Paiva | Blog
 ---
+![header](/files/index/header.jpg)
+
+_Bonito, né?_
 
 Dá um bizu no meu [github](https://github.com/raphaelpaiva).
 
